@@ -1,6 +1,6 @@
 # [Full Name](https://github.com/USERNAME)
 
-![Full Name](https://avatars0.githubusercontent.com/u/13879097?v=3&s=460)]
+![Full Name]()]
 
 | category | value |
 |-----------|-------|
