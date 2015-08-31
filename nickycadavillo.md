@@ -1,6 +1,6 @@
-# [Nicky Cadavillo](https://github.com/USERNAME)
+# [Nicky Cadavillo](https://github.com/nickycadavillo)
 
-![Nicky Cadavillo](URL-to-IMAGE)]
+![Nicky Cadavillo](https://avatars1.githubusercontent.com/u/11246178?v=3&s=460]
 
 | category | value |
 |-----------|-------|
