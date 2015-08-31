@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [Kristine Erickson](https://github.com/ericksonk)
 
-![Full Name](URL-to-IMAGE)]
+![Kristine Erickson](http://i.imgur.com/gi8YYlc.jpg?1)
 
 | category | value |
 |-----------|-------|
