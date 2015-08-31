@@ -1,6 +1,8 @@
-# [Full Name](https://github.com/USERNAME)
+# [J.R. Worley](https://github.com/jeffworley)
 
-![Full Name](URL-to-IMAGE)]
+### [username: jeffworley](https://github.com/jeffworley)
+
+![J.R. Worley](https://avatars.githubusercontent.com/jeffworley)]
 
 | category | value |
 |-----------|-------|
