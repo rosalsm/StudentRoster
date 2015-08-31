@@ -1,4 +1,5 @@
 # [Jeremy Rist](https://github.com/jeremyrist)
+# [jeremyrist]
 
 ![Jeremy Rist](https://avatars3.githubusercontent.com/u/13407041?v=3&s=460)]
 
