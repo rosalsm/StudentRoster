@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [Jeremy Rist](https://github.com/jeremyrist)
 
-![Full Name](URL-to-IMAGE)]
+![Jeremy Rist](https://avatars3.githubusercontent.com/u/13407041?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
