@@ -1,6 +1,6 @@
 # [Camille Mauban](https://github.com/cmauban)
 
-![Full Name](URL-to-IMAGE)]
+![Camille Mauban](http://i.imgur.com/qHRoVzD.jpg?1)]
 
 | category | value |
 |-----------|-------|
