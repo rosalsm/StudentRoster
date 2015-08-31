@@ -1,6 +1,6 @@
 # [Nicky Cadavillo][https://github.com/nickycadavillo)
 
-![Nicky Cadavillo](https://avatars1.githubusercontent.com/u/11246178?v=3&s=460]
+![Nicky Cadavillo](https://avatars1.githubusercontent.com/u/11246178?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
