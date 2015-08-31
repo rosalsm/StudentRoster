@@ -1,6 +1,6 @@
 # [Jonathan Creasman](https://github.com/jmcreasman)
 
-![Jonathan Creasman](URL-to-IMAGE)]
+![Jonathan Creasman](http://i.imgur.com/ikGn4r4.jpg)
 
 | category | value |
 |-----------|-------|
