@@ -1,6 +1,6 @@
 # [Full Name](https://github.com/USERNAME)
 
-![Full Name](URL-to-IMAGE)]
+![Full Name](URL-to-IMAGE)
 
 | category | value |
 |-----------|-------|
