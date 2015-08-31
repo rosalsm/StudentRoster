@@ -1,6 +1,6 @@
 # [David White](https://github.com/s4dmw)
-
-![David White](https://avatars0.githubusercontent.com/u/13879097?v=3&s=460)]
+# [s4dmw](https://github.com/s4dmw)
+ [![David White](https://avatars0.githubusercontent.com/u/13879097?v=3&s=460)](https://github.com/s4dmw)
 
 | category | value |
 |-----------|-------|
