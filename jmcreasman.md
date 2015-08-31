@@ -2,7 +2,7 @@
 
 [jmcreasman](https://github.com/jmcreasman)
 
-![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)
+[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
 
 | category | value |
 |-----------|-------|
