@@ -2,7 +2,7 @@
 
 ### [username: jeffworley](https://github.com/jeffworley)
 
-![J.R. Worley](https://avatars.githubusercontent.com/jeffworley)]
+[![J.R. Worley](https://avatars.githubusercontent.com/jeffworley)](https://github.com/jeffworley)
 
 | category | value |
 |-----------|-------|
