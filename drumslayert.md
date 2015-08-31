@@ -1,6 +1,6 @@
 # [Terry Calhoun](https://github.com/drumslayert)
-
-![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)]
+# [drumslayert](https://github.com/drumslayert)
+[![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)](https://github.com/drumslayert)
 
 | category | value |
 |-----------|-------|
