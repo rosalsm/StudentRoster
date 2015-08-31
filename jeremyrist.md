@@ -1,7 +1,7 @@
 # [Jeremy Rist](https://github.com/jeremyrist)
-# [jeremyrist]
+# [jeremyrist](https://github.com/jeremyrist)
 
-![Jeremy Rist](https://avatars3.githubusercontent.com/u/13407041?v=3&s=460)]
+![Jeremy Rist](https://avatars3.githubusercontent.com/u/13407041?v=3&s=460)(https://github.com/jeremyrist)
 
 | category | value |
 |-----------|-------|
