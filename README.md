@@ -10,13 +10,12 @@ It's not just a directory of trivia, it's also a practice problem!
 
 1. Fork this project.
 2. Add a file for yourself...
-  * find the correct `TEMPLATE.md` file for your cohort, e.g. [`2015-01/TEMPLATE.md`](2015-01/TEMPLATE.md)
-  * copy the contents into a file named `USERNAME.md` where `USERNAME` is your Github username
-  * add and commit that file into the appropriate directory for your cohort, e.g. [`2015-01/FEE/al-the-x.md`](2015-01/FEE/al-the-x.md), [`2015-01/ROR/bgates.md`](2015-01/ROR/bgates.md)
-3. [Open a Pull Request (PR](https://github.com/TheIronYard--Orlando/student-roster/pulls) to `master`
+  * copy the contents of `TEMPLATE.md` into a file named `USERNAME.md` where `USERNAME` is your GitHub username
+  * add and commit that file into your forked repo
+3. [Open a Pull Request (PR](https://github.com/TIY-Durham/StudentRoster/pulls) from your fork to `master`
 4. Get your PR merged...
   * maybe @-mention your instructor in the description?
-  * drop a link to the PR in HipChat?
+  * drop a link to the PR in yor chat room?
   * compose an interpretive dance to perform at standup?
 
 ## Congrats! Now what?
