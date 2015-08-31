@@ -1,5 +1,7 @@
 # [Jonathan Creasman](https://github.com/jmcreasman)
 
+[jmcreasman](https://github.com/jmcreasman)
+
 ![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)
 
 | category | value |
