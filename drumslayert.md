@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [Terry Calhoun](https://github.com/drumslayert)
 
-![Full Name](URL-to-IMAGE)]
+![Terry Calhoun](https://avatars0.githubusercontent.com/u/10352970?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
