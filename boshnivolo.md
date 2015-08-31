@@ -1,6 +1,6 @@
 # [Jasmine Baik](https://github.com/boshnivolo)
 
-<a href="https://github.com/boshnivolo"><img src="https://avatars3.githubusercontent.com/u/13842015?v=3&s=460"/></a>
+[![Jasmine Baik](https://avatars3.githubusercontent.com/u/13842015?v=3&s=460)] (https://github.com/boshnivolo)
 
 # [boshnivolo](https://github.com/boshnivolo)
 
