@@ -1,18 +1,18 @@
-# [Rosa Lopez](https://github.com/rosalsm)
-
-[![Rosa Lopez](https://avatars1.githubusercontent.com/u/14005282?v=3&u=1b52840cdb9b1d1f19df93a02db869bc4a03ef2d&s=140)](https://github.com/rosalsm)
+# [David White](https://github.com/s4dmw)
+# [s4dmw](https://github.com/s4dmw)
+ [![David White](https://avatars0.githubusercontent.com/u/13879097?v=3&s=460)](https://github.com/s4dmw)
 
 | category | value |
 |-----------|-------|
-| _:house:_ |Alicante, Spain |
-| _:dog: or :cat:_ | :fish: |
+| _:house:_ | Raleigh, NC|
+| _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :tennis: |
+| _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |

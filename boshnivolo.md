@@ -1,18 +1,20 @@
-# [Rosa Lopez](https://github.com/rosalsm)
+# [Jasmine Baik](https://github.com/boshnivolo)
 
-[![Rosa Lopez](https://avatars1.githubusercontent.com/u/14005282?v=3&u=1b52840cdb9b1d1f19df93a02db869bc4a03ef2d&s=140)](https://github.com/rosalsm)
+[![Jasmine Baik](https://avatars3.githubusercontent.com/u/13842015?v=3&s=460)] (https://github.com/boshnivolo)
+
+# [boshnivolo](https://github.com/boshnivolo)
 
 | category | value |
 |-----------|-------|
-| _:house:_ |Alicante, Spain |
-| _:dog: or :cat:_ | :fish: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :tennis: |
+| _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
@@ -53,3 +55,4 @@
 | category        | value                        |
 |-----------------|------------------------------|
 | _:hand:-edness_ | :point_left: / :point_right: |
+

@@ -1,18 +1,18 @@
-# [Rosa Lopez](https://github.com/rosalsm)
+# [Full Name](https://github.com/USERNAME)
 
-[![Rosa Lopez](https://avatars1.githubusercontent.com/u/14005282?v=3&u=1b52840cdb9b1d1f19df93a02db869bc4a03ef2d&s=140)](https://github.com/rosalsm)
+![Full Name](URL-to-IMAGE)
 
 | category | value |
 |-----------|-------|
-| _:house:_ |Alicante, Spain |
-| _:dog: or :cat:_ | :fish: |
+| _:house:_ | Raleigh, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :tennis: |
+| _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
@@ -41,12 +41,12 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-+
-+| category | value |
-+|----------|-------|
-+| _hat_ | --- |
-+| _clothing_ | --- |
-+| _shoes_ | --- |
+
+| category | value |
+|----------|-------|
+| _hat_ | --- |
+| _clothing_ | --- |
+| _shoes_ | --- |
 
 ## Randomness
 

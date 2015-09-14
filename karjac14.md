@@ -1,20 +1,20 @@
-# [Rosa Lopez](https://github.com/rosalsm)
+# [Karlo Eleuterio](https://github.com/karjac14)
 
-[![Rosa Lopez](https://avatars1.githubusercontent.com/u/14005282?v=3&u=1b52840cdb9b1d1f19df93a02db869bc4a03ef2d&s=140)](https://github.com/rosalsm)
+![Karlo Eleuterio](https://avatars3.githubusercontent.com/u/8317978?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ |Alicante, Spain |
-| _:dog: or :cat:_ | :fish: |
-| _:birthday:_ | _:calendar:_ |
+| _:house:_ | Philipines |
+| _:dog: or :cat:_ |  |
+| _:birthday:_ | June 01 |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :tennis: |
+| _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | Milk |
 | _food_   | --- |
 | _movie_  | --- |
 | _book_  | :books: |
