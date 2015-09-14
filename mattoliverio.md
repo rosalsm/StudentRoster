@@ -4,7 +4,7 @@
 +
 +| category | value |
 +|-----------|-------|
-+| _:house:_ | Small Town, USA |
++| _:house:_ | New York, USA |
 +| _:dog: or :cat:_ | :bird: :snake: |
 +| _:birthday:_ | _:calendar:_ |
 +
