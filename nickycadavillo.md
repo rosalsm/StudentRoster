@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [Nicky Cadavillo][https://github.com/nickycadavillo)
 
-![Full Name](URL-to-IMAGE)
+![Nicky Cadavillo](https://avatars1.githubusercontent.com/u/11246178?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
@@ -41,12 +41,12 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-
-| category | value |
-|----------|-------|
-| _hat_ | --- |
-| _clothing_ | --- |
-| _shoes_ | --- |
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
 
 ## Randomness
 

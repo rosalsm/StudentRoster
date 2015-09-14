@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
-
-![Full Name](URL-to-IMAGE)
+# [David White](https://github.com/s4dmw)
+# [s4dmw](https://github.com/s4dmw)
+ [![David White](https://avatars0.githubusercontent.com/u/13879097?v=3&s=460)](https://github.com/s4dmw)
 
 | category | value |
 |-----------|-------|
@@ -41,12 +41,12 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-
-| category | value |
-|----------|-------|
-| _hat_ | --- |
-| _clothing_ | --- |
-| _shoes_ | --- |
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
 
 ## Randomness
 

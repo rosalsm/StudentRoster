@@ -1,6 +1,8 @@
-# [Full Name](https://github.com/USERNAME)
+# [J.R. Worley](https://github.com/jeffworley)
 
-![Full Name](URL-to-IMAGE)
+### [username: jeffworley](https://github.com/jeffworley)
+
+[![J.R. Worley](https://avatars.githubusercontent.com/jeffworley)](https://github.com/jeffworley)
 
 | category | value |
 |-----------|-------|
@@ -41,12 +43,12 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-
-| category | value |
-|----------|-------|
-| _hat_ | --- |
-| _clothing_ | --- |
-| _shoes_ | --- |
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
 
 ## Randomness
 
