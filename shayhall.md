@@ -4,7 +4,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Atlanta, GA, USA |
-| _:dog:  | :bird:  |
+|NO PETS ALLOWED! |
 | _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
