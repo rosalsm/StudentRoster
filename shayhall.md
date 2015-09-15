@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
-
-![Full Name](URL-to-IMAGE)
+# [Shay Hall](https://github.com/ShayHall)
+# [ShayHall] (https://github.com/ShayHall)
+# [![Shay Hall](https://avatars0.githubusercontent.com/u/13802039?v=3&s=460)](https://github.com/ShayHall)
 
 | category | value |
 |-----------|-------|
@@ -41,12 +41,12 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-
-| category | value |
-|----------|-------|
-| _hat_ | --- |
-| _clothing_ | --- |
-| _shoes_ | --- |
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
 
 ## Randomness
 

@@ -1,6 +1,8 @@
-# [Full Name](https://github.com/USERNAME)
+# [Jasmine Baik](https://github.com/boshnivolo)
 
-![Full Name](URL-to-IMAGE)
+[![Jasmine Baik](https://avatars3.githubusercontent.com/u/13842015?v=3&s=460)] (https://github.com/boshnivolo)
+
+# [boshnivolo](https://github.com/boshnivolo)
 
 | category | value |
 |-----------|-------|
@@ -41,15 +43,16 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-
-| category | value |
-|----------|-------|
-| _hat_ | --- |
-| _clothing_ | --- |
-| _shoes_ | --- |
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
 
 ## Randomness
 
 | category        | value                        |
 |-----------------|------------------------------|
 | _:hand:-edness_ | :point_left: / :point_right: |
+

@@ -1,10 +1,11 @@
-# [Full Name](https://github.com/USERNAME)
+# [Jeremy Rist](https://github.com/jeremyrist)
+# [jeremyrist](https://github.com/jeremyrist)
 
-![Full Name](URL-to-IMAGE)
+![Jeremy Rist](https://avatars3.githubusercontent.com/u/13407041?v=3&s=460)(https://github.com/jeremyrist)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
+| _:house:_ |Durham, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
@@ -41,12 +42,12 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-
-| category | value |
-|----------|-------|
-| _hat_ | --- |
-| _clothing_ | --- |
-| _shoes_ | --- |
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
 
 ## Randomness
 

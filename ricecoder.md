@@ -1,6 +1,9 @@
-# [Full Name](https://github.com/USERNAME)
+# [Lacey Rice](https://github.com/Ricecoder)
 
-![Full Name](URL-to-IMAGE)
+[![Lacey Rice](https://avatars0.githubusercontent.com/u/13753919?v=3&s=460)] (https://github.com/Ricecoder) 
+
+#[Ricecoder] (https://github.com/Ricecoder)
+
 
 | category | value |
 |-----------|-------|
@@ -41,12 +44,12 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-
-| category | value |
-|----------|-------|
-| _hat_ | --- |
-| _clothing_ | --- |
-| _shoes_ | --- |
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
 
 ## Randomness
 
