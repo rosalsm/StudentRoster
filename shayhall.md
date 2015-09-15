@@ -15,8 +15,8 @@
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
+| _food_   |Do you like paella too? |
+| _movie_  | Kill Bill 1, 2 and 3|
 | _book_  | :books: |
 | _travel_ | :earth_americas: |
 | _craft_  | :art: |
