@@ -4,7 +4,7 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Durham, USA |
+| _:house:_ | Spain! |
 | _:dog: or :cat:_ | :fish: |
 | _:birthday:_ | _:calendar:_ |
 
@@ -12,10 +12,10 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :tennis: |
+| _sport_  | :croquet: |
 | _team_   | Davis Cup Spain National Team|
 | _drink_  | :beer: :wine_glass: |
-| _food_   | Paella|
+| _food_   | burgers|
 | _movie_  | The Princess Bride|
 | _book_  | :books: |
 | _travel_ | :earth_americas: |
