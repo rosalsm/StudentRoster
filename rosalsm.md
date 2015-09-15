@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Durham, USA |
-| _:dog: or :cat:_ | :fish: |
+| _:house:_ | Spain |
+| _:dog: or :cat:_ | :dog: |
 | _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
@@ -16,9 +16,9 @@
 | _team_   | Davis Cup Spain National Team|
 | _drink_  | :beer: :wine_glass: |
 | _food_   | Paella|
-| _movie_  | The Princess Bride|
+| _movie_  | The Princess Bride "You killed my father! Prepare to die!" |
 | _book_  | :books: |
-| _travel_ | :earth_americas: |
+| _travel_ | :earth_americas: All over the place!|
 | _craft_  | :art: |
 
 ## Esoteric :crystal_ball:
