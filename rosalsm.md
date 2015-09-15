@@ -13,10 +13,10 @@
 | category | value |
 |----------|--------|
 | _sport_  | :tennis: |
-| _team_   | --- |
+| _team_   | Davis Cup Spain National Team|
 | _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
+| _food_   | Paella|
+| _movie_  | The Princess Bride|
 | _book_  | :books: |
 | _travel_ | :earth_americas: |
 | _craft_  | :art: |
