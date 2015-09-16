@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | [Morrisville, NC](https://www.google.com/maps/place/Morrisville,+NC/@35.8329151,-78.8396159,13z/data=!3m1!4b1!4m2!3m1!1s0x89ac9265aefc41d7:0xe1bf2f033fa3ab3e) |
-| _:dog: or :cat:_ | ![I like Dogs!](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c32.36.403.403/s50x50/255140_189734451079563_7005188_n.jpg?oh=d53fcf0c7fd25d1dca08d2723891e868&oe=5645EC6E&__gda__=1447060195_41c52cc8dde1c114548d0f01dd7c1c73) |
+| _:house:_ | Philipines |
+| _:dog: or :cat:_ |  |
 | _:birthday:_ | June 01 |
 
 ## Faves! :v:
