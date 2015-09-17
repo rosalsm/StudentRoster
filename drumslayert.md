@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Tampa, FL, USA |
+| _:dog: or :cat:_ | :bird: :snake: blahblahblah |
 | _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:

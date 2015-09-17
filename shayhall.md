@@ -1,11 +1,10 @@
 # [Shay Hall](https://github.com/ShayHall)
-# [ShayHall] (https://github.com/ShayHall)
 # [![Shay Hall](https://avatars0.githubusercontent.com/u/13802039?v=3&s=460)](https://github.com/ShayHall)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Atlanta, GA, USA |
+| _:dog:  | NO PETS EVER!  |
 | _:birthday:_ | _:calendar:_ |
 
 ## Faves! :v:
@@ -16,9 +15,9 @@
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  | Amelie, Lawrence of Arabia, Wizard of Oz |
 | _book_  | :books: |
-| _travel_ | :earth_americas: |
+| _travel_ | :earth_americas: Spain, France, England, Brazil, Mexico, Russia, etc.|
 | _craft_  | :art: |
 
 ## Esoteric :crystal_ball:
